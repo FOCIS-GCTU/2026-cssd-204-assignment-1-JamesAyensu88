@@ -5,7 +5,7 @@
 #Name: James Amaniampong Ayensu
 #STUDENT ID: 2425401452
 #Email: 2425401452@live.gctu.edu.gh
-#Grader: Agustus Buckman
+#Grader: Augustus Buckman
 #
 #On my honor, James Amaniampong Ayensu, this programming assignment is my own work
 #and I have not provided this code to any other student.
